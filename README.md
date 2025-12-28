@@ -29,7 +29,7 @@
 ```bash
 python snake_water_gun.py
 
-###⌨️ Input Keys
+##⌨️ Input Keys
 
 * s → Snake
 
@@ -37,7 +37,7 @@ python snake_water_gun.py
 
 * g → Gun
 
-###📚 Learning Outcomes
+##📚 Learning Outcomes
 
 * Implemented game logic using Python
 
@@ -45,7 +45,7 @@ python snake_water_gun.py
 
 * Gained hands-on experience with basic Python projects
 
-###👩‍💻 Author
+##👩‍💻 Author
 
 * Diksha Gade
 * BCA Student 
