@@ -28,6 +28,7 @@
 - Run the following command:
 ```bash
 python snake_water_gun.py
+
 ---
 
 ## 📌 Input Keys
