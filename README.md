@@ -29,14 +29,15 @@
 ```bash
 python snake_water_gun.py
 
-⌨️ Input Keys
+#⌨️ Input Keys
+
 * s → Snake
 
 * w → Water
 
 * g → Gun
 
-##📚 Learning Outcomes
+#📚 Learning Outcomes
 
 * Implemented game logic using Python
 
