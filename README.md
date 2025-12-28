@@ -29,8 +29,7 @@
 ```bash
 python snake_water_gun.py
 
-##⌨️ Input Keys
-
+⌨️ Input Keys
 * s → Snake
 
 * w → Water
@@ -45,7 +44,7 @@ python snake_water_gun.py
 
 * Gained hands-on experience with basic Python projects
 
-##👩‍💻 Author
+#👩‍💻 Author
 
 * Diksha Gade
 * BCA Student 
