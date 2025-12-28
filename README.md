@@ -29,27 +29,17 @@
 ```bash
 python snake_water_gun.py
 
-#⌨️ Input Keys
+## 📌 Input Keys
+- s → Snake  
+- w → Water  
+- g → Gun  
 
-* s → Snake
+## 📚 Learning Outcomes
+- Implemented game logic using Python  
+- Practiced dictionary mapping and condition handling  
+- Gained hands-on experience with basic Python projects  
 
-* w → Water
-
-* g → Gun
-
-#📚 Learning Outcomes
-
-* Implemented game logic using Python
-
-* Practiced dictionary mapping and condition handling
-
-* Gained hands-on experience with basic Python projects
-
-#👩‍💻 Author
-
-* Diksha Gade
-* BCA Student 
-* Python Learner
----
-
-
+## 👩‍💻 Author
+**Diksha Gade**  
+BCA Student  
+Python Learner
